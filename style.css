@@ -465,7 +465,7 @@ button {
 }
 
 .btn-rd {
-    border-radius: 80px;
+    border-radius: 40px;
 }
 
 .btn-clean {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -766,7 +766,7 @@ h4 {
     background-color: #FFFFFF;
 }
 
-.bgc-dark-slate-blue {
+.bgc-dark-slate-blue { 
     background-color: #364577;
 }
 
@@ -790,6 +790,8 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    font-size: 14px;
+  
 }
 
 .ltc-white:hover {
