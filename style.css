@@ -684,9 +684,10 @@ p {
     max-width: 600px;
     margin: auto auto auto auto;
 }
-.tiger img
+.tiger 
 {
-    width: 200px;
+    width: 220px;
+    height: 40px;
 }
 .h1 {
     font-size: 20px;
