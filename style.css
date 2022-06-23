@@ -786,12 +786,17 @@ h4 {
 {
     color: #000!important;
 }
-/*
-.hors-ecran
+ 
+.hors-ecran span
 {
     position: absolute;
    left: -99999rem;
-}*/
+   color: transparent;
+} 
+.essai 
+{
+    position: relative;
+}
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #FFFFFF!important;
