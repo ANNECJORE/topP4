@@ -893,7 +893,18 @@ h4 {
         padding-right: 0 /* constant(safe-area-inset-right)*/;
     }
 }
-
+.citation
+{
+      font-size: 20px;
+    font-style: oblique;
+    font-weight: 400;
+    margin-bottom: 0%;
+}
+.signature
+{
+    font-size: 20px;
+    margin-top: 0;
+}
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
