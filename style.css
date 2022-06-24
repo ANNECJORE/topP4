@@ -747,13 +747,13 @@ h4 {
     margin-bottom: 24px;
 }
  
-@media (max-width: 771px) 
+ @media (max-width: 771px)  
 {.fotomieux
 {  display: block;
     width:340px ;
     height: 345px;
 }
-}
+ }
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
