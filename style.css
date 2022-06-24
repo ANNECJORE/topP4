@@ -746,7 +746,14 @@ h4 {
 .portfolio-thumb {
     margin-bottom: 24px;
 }
-
+ 
+@media (max-width: 771px) 
+{.fotomieux
+{  display: block;
+    width:340px ;
+    height: auto;
+}
+}
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
