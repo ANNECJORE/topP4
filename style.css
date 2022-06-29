@@ -764,7 +764,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(138, 115, 51, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -808,7 +808,8 @@ h4 {
 {
     position: relative;
 }
-.btn-atomic-tangerine:hover {
+.btn-atomic-tangerine:hover 
+{
     background: #c27956!important;
     color: #FFFFFF!important;
 }
