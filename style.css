@@ -534,6 +534,9 @@ a[data-lightbox] {
     position: relative;
     display: block;
     text-align: center;
+@media(max-width: 771px) { 
+align-items:center;
+    }      
 }
 
 a[data-lightbox]:hover::before {
@@ -754,7 +757,7 @@ h4 {
  @media (max-width: 771px)  
 {.fotomieux
 {  display: block;
-    width:340px ;
+    width:270px ;
     height: 345px;
 }
  }
