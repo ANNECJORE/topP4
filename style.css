@@ -534,9 +534,7 @@ a[data-lightbox] {
     position: relative;
     display: block;
     text-align: center;
-@media(max-width: 771px) { 
-align-items:center;
-    }      
+ 
 }
 
 a[data-lightbox]:hover::before {
